@@ -1,8 +1,7 @@
 {
   "name": "3d-converter-api",
   "version": "1.0.0",
-  "description": "API для конвертации 3D файлов (STL ↔ OBJ ↔ GLB)",
-  "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
